@@ -11,7 +11,7 @@ path_to_index = 'C:/PATH_TO_INDEX.TXT/'
 os.chdir(path_to_index)
 
 df = pd.read_csv('index.txt', sep='|', header=0, index_col=0)
-df.dtypes
+print(df.dtypes)
 
 amzn_2018 = df[(df['stock_symbol']=='AMZN') & (df['reporting_year']==2018)].index.to_list()
 print(amzn_2018)
