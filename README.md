@@ -1,5 +1,7 @@
-# hqinsight-python
-Download Earnings Conference Call Transcripts - https://www.hqinsight.com/
+# HQ Insights Tutorials
 
-# Download Data Sample
-http://hqinsight.com/transcripts_sample.zip
+Visit our website https://www.hqinsight.com/
+if you would like to:
+- View tutorials explained in detail
+- Download Earnings Conference Call Transcripts
+
