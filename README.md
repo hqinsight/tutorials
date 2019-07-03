@@ -1,4 +1,4 @@
-# HQ Insights Tutorials
+# HQ Insight Tutorials
 
 Visit our website https://www.hqinsight.com/
 if you would like to:
